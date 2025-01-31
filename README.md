@@ -16,4 +16,7 @@ https://abdulkaderabd.github.io/E-comerce/
 #### Blog:
 ![image](https://github.com/user-attachments/assets/f3fd9c47-785e-4d32-a6cb-ffe616c96f23)
 
-
+### Used Languages:
+- HTML5
+- CSS3
+- JavaScript
