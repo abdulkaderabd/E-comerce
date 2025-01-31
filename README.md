@@ -13,3 +13,7 @@ https://abdulkaderabd.github.io/E-comerce/
 ![image](https://github.com/user-attachments/assets/25366d5c-b598-46d3-81fe-08c1fb56c8d7)
 
 
+#### Blog:
+![image](https://github.com/user-attachments/assets/f3fd9c47-785e-4d32-a6cb-ffe616c96f23)
+
+
