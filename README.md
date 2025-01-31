@@ -1,2 +1,3 @@
 # E-comerce
-FULL RESPONSIVE ECOMMERCE WEBSITE RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS AND JAVASCRIPT. (Home page, Products Page, Single Product Details page &amp; carte page)
+Full Responsive Ecommerce Website Responsive Ecommerce Website Using HTML CSS and JavaScript. (Home Page, Products Page, Single Product Details Page & Carte Page)
+
